@@ -23,5 +23,5 @@ This is an ongoing front-end project built with **React** to create a dual-inter
 - **Tailwind CSS**: Utility-first CSS framework for fast, responsive styling.
 - **Recharts**: Library for creating charts and graphs.
 
-![Dashboard Screenshot](../assets/img/dashboard.png)
+![Dashboard Screenshot](client/blog/src/assets/img/dashboard.png)
 
